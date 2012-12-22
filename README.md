@@ -1,1 +1,1 @@
-This repository contains simple C programs.
+This repository contains C programs.
